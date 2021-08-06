@@ -136,3 +136,4 @@ Version: '5.7.35'  socket: '/var/run/mysqld/mysqld.sock'  port: 0  MySQL Communi
 2021-08-05T01:46:00.819398Z 0 [Note] Event Scheduler: Loaded 0 events
 2021-08-05T01:46:00.820655Z 0 [Note] mysqld: ready for connections.
 Version: '5.7.35'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)
+2021-08-05T15:03:50.694570Z 0 [Note] Giving 0 client threads a chance to die gracefully
